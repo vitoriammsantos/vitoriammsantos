@@ -7,16 +7,16 @@ Seja bem-vindo ao meu perfil! 👋 Sou uma estudante apaixonado pelo mundo da Ci
 ## Sobre Mim
 
 - 👨‍🎓 **Graduação**: Ciências da Computação na PUC Minas.
-- 🌱 **Atividades Atuais**: Foco em aprender cada vez mais as linguagens do mundonda tecnologia.
+- 🌱 **Atividades Atuais**: Foco em aprender cada vez mais as linguagens do mundo da tecnologia.
 - 💼 **Experiência Profissional**: [Detalhes sobre experiências anteriores ou projetos relevantes, se aplicável]
 
 ## Habilidades
 
-- **Linguagens de Programação:** Java, Python, C#
-- **Desenvolvimento Web:** HTML, CSS, JavaScript, React
-- **Banco de Dados:** MySQL, MongoDB
-- **Metodologias:** Scrum, Kanban
-- **Ferramentas:** Git, VS Code, Eclipse
+- **Linguagens de Programação:**  C
+- **Desenvolvimento Web:** HTML
+- **Banco de Dados:** 
+- **Metodologias:** 
+- **Ferramentas:** VS Code, repl.it .
 - *[Adicione outras habilidades relevantes]*
 
 ## Projetos Destacados
