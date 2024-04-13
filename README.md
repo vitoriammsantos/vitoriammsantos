@@ -8,7 +8,7 @@ Seja bem-vindo ao meu perfil! 👋 Sou uma estudante apaixonado pelo mundo da Ci
 
 - 👨‍🎓 **Graduação**: Ciências da Computação na PUC Minas.
 - 🌱 **Atividades Atuais**: Foco em aprender cada vez mais as linguagens do mundo da tecnologia.
-- 💼 **Experiência Profissional**: [Detalhes sobre experiências anteriores ou projetos relevantes, se aplicável]
+- 💼 **Experiência Profissional**: Loading...
 
 ## Habilidades
 
@@ -16,27 +16,17 @@ Seja bem-vindo ao meu perfil! 👋 Sou uma estudante apaixonado pelo mundo da Ci
 - **Desenvolvimento Web:** HTML
 - **Banco de Dados:** 
 - **Metodologias:** 
-- **Ferramentas:** VS Code, repl.it .
-- *[Adicione outras habilidades relevantes]*
+- **Ferramentas:** VS Code, repl.it, CodeBlocks .
 
 ## Projetos Destacados
 
-### [Nome do Projeto]
+### [Blog pessoal]
 
-Breve descrição do projeto e suas tecnologias principais.
-
-### [Nome do Projeto]
-
-Breve descrição do projeto e suas tecnologias principais.
-
-## Contribuições
-
-- [Nome do Projeto/Open Source]: Breve descrição da contribuição.
+Um blog pessoal é um espaço online onde uma pessoa compartilha suas experiências, pensamentos, interesses e opiniões sobre uma variedade de tópicos. 
 
 ## Contato
 
 - **E-mail:** vitoriammsantos15@gmail.com
-- **Twitter:** [Seu Perfil no Twitter]
-- **LinkedIn:** [Seu Perfil no LinkedIn]
+
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas conexões e colaborações! 😊
