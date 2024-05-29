@@ -1,5 +1,5 @@
 
-<img>![IMG_2480](https://github.com/vitoriammsantos/vitoriammsantos/assets/161458503/c7eca4cb-e1a2-4c79-976b-8bfffd0cd695)
+<img>![image](https://github.com/vitoriammsantos/vitoriammsantos/assets/161458503/3a8a8967-f931-46e9-8c8f-0b1ae02ec9c1)
 
 
 ### Hi there 👋
