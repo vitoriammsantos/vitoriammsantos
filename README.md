@@ -1,3 +1,7 @@
+
+<img>![IMG_2480](https://github.com/vitoriammsantos/vitoriammsantos/assets/161458503/c7eca4cb-e1a2-4c79-976b-8bfffd0cd695)
+
+
 ### Hi there 👋
 
 # Perfil do Estudante de Ciências da Computação - PUC Minas
