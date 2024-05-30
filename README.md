@@ -29,7 +29,7 @@
 
 ##
 
-Seja bem-vindo ao meu perfil!  Sou uma estudante apaixonada pelo mundo da Ciências da Computação na PUC Minas, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.
+Seja bem-vindo ao meu perfil!  Sou uma estudante apaixonada pelo mundo da Ciências da Computação na PUC Minas, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. :)
 
 
 ## Habilidades
